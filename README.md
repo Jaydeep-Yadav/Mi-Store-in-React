@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+[Live Link](https://jaydeep-yadav.github.io/Mi-Store-in-React/)
+
+![Mi Store](snap.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
