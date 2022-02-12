@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mi-Store-in-React/static/css/main.74f3ba73.css",
+    "main.js": "/Mi-Store-in-React/static/js/main.ccb10d70.js",
+    "index.html": "/Mi-Store-in-React/index.html",
+    "main.74f3ba73.css.map": "/Mi-Store-in-React/static/css/main.74f3ba73.css.map",
+    "main.ccb10d70.js.map": "/Mi-Store-in-React/static/js/main.ccb10d70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74f3ba73.css",
+    "static/js/main.ccb10d70.js"
+  ]
+}
